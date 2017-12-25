@@ -30,8 +30,8 @@
 * [路由预加载--预先加载延迟模块](https://github.com/deepthan/blog-angular/issues/4)
 * [Angular2+去除url中的#](https://github.com/deepthan/blog-angular/issues/5)
 * [ng-content在一个节点中插入另外的节点](https://github.com/deepthan/blog-angular/issues/6)
-* [Angular如何操作DOM?](https://github.com/deepthan/blog-angular/issues/9)
-
+* [Angular如何操作DOM](https://github.com/deepthan/blog-angular/issues/9)
+* [Angular开发必备技巧](https://github.com/deepthan/blog-angular/issues/11)
 
 readme写作方法
 ------
